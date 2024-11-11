@@ -1,5 +1,3 @@
-# Machine Learning Powered Voice Assistant
-This is a machine learning powered and speech-based virtual assistant specifically designed for Raspberry Pi.
 
 # Currently supported features (more to be added soon)
 * Basic conversation (greetings, questions, etc.)
